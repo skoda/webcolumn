@@ -1,0 +1,23 @@
+{
+  "name": "webcolumn",
+  "version": "0.0.0",
+  "description": "webcolumn =========",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skoda/webcolumn.git"
+  },
+  "author": "Chuck Skoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skoda/webcolumn/issues"
+  },
+  "homepage": "https://github.com/skoda/webcolumn",
+  "dependencies": {
+    "hapi": "^3.0.2",
+    "handlebars": "^2.0.0-alpha.2"
+  }
+}
