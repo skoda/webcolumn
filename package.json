@@ -18,6 +18,7 @@
   "homepage": "https://github.com/skoda/webcolumn",
   "dependencies": {
     "hapi": "^3.0.2",
-    "handlebars": "^2.0.0-alpha.2"
+    "handlebars": "^2.0.0-alpha.2",
+    "marked": "^0.3.2"
   }
 }
